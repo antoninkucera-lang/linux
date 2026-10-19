@@ -1,2 +1,2 @@
-AHOJ zkousim repo
-
+Ahoj! Toto je testovací soubor zkouska.txt vytvořený a odeslaný na GitHub.
+Hello! This is a test file zkouska.txt created and pushed to GitHub.
